@@ -1,0 +1,15 @@
+{
+  "user": {
+    "id": "123",
+    "username": "john_doe",
+    "email": "john.doe@example.com"
+  },
+  "settings": {
+    "theme": "light",
+    "language": "en"
+  },
+  "preferences": {
+    "notifications": true,
+    "darkMode": false
+  }
+}
